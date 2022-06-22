@@ -1,0 +1,6 @@
+recent
+temp
+%temp%
+Prefetch
+msconfig
+taskschd.msc
